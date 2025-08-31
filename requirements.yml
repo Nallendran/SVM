@@ -1,0 +1,9 @@
+name: SVM_env
+channels:
+  - defaults
+  - conda-forge
+
+dependencies:
+  - pip
+  - pyspark
+  - pip:
